@@ -1,0 +1,200 @@
+.content {
+  background-color: rgb(131, 218, 189);
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+    Oxygen, Ubuntu, Cantarell, "Open Sans", "Helvetica Neue", sans-serif;
+}
+.container {
+  display: flex;
+  align-items: center;
+}
+#Yahya {
+  font-family: "Courier New", Courier, monospace;
+  font-size: 30px;
+  color: rgb(6, 15, 109);
+  text-decoration: none;
+  display: inline;
+}
+nav {
+  display: inline;
+  color: rgb(20, 20, 134);
+}
+nav li {
+  display: inline;
+  padding: 10px;
+}
+nav a {
+  margin: auto;
+  text-decoration: none;
+  text-decoration: none;
+  color: blue;
+}
+#Home button {
+  background-color: cadetblue;
+  border-radius: 50%;
+  color: antiquewhite;
+  padding: 20px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-style: none;
+  width: 200px;
+  height: auto;
+  font-size: medium;
+  margin: 20px;
+}
+h1 {
+  color: aliceblue;
+  font-style: italic;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  font-size: 40px;
+  box-shadow: inset;
+}
+#Home p {
+  font-size: large;
+  font-weight: 600;
+  color: rgb(43, 44, 135);
+}
+#Home img {
+  position: relative;
+}
+#About li {
+  text-justify: auto;
+  margin: auto;
+  padding: 20px;
+  font-weight: bold;
+  font-size: medium;
+  color: rgb(43, 44, 135);
+}
+#Resume table {
+  margin: auto;
+  border-spacing: 100px;
+  border-radius: 20px;
+  padding: 20px;
+  color: black;
+  background-color: rgb(103, 159, 211);
+  color: rgb(43, 44, 135);
+  border-style: groove;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+#Resume th td {
+  margin: auto;
+  background-color: darkturquoise;
+  text-align: center;
+  border-style: groove;
+}
+#Resume button {
+  background-color: cadetblue;
+  border-radius: 50%;
+  color: rgb(43, 44, 135);
+  padding: 20px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-style: none;
+  width: 200px;
+  height: auto;
+  font-size: medium;
+  margin: 20px;
+}
+#Skills ul li {
+  margin: auto;
+  align-content: center;
+  padding: 10px;
+  font-weight: 500;
+  font-style: oblique;
+  padding-right: 10px;
+  color: rgb(43, 44, 135);
+}
+#Project a {
+  text-decoration: none;
+  color: rgb(43, 44, 135);
+  font-size: medium;
+  font-weight: bold;
+  text-align: justify;
+}
+#Contact table {
+  margin: auto;
+  border-spacing: 40px;
+  padding: 20px;
+  color: black;
+  color: rgb(43, 44, 135);
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+  text-align: left;
+}
+#Contact th {
+  font-size: large;
+  color: rgb(43, 44, 135);
+  font-weight: 600;
+}
+#Contact td {
+  font-size: medium;
+  color: rgb(43, 44, 135);
+  font-weight: 400;
+}
+form img {
+  float: right;
+  width: 20%;
+  padding: 10px;
+  align-content: center;
+}
+form {
+  background-color: cornflowerblue;
+  padding: 15px;
+  margin: auto;
+  width: 90%;
+  border-radius: 5%;
+}
+
+form #submit {
+  background-color: cadetblue;
+  border-radius: 40%;
+  color: rgb(43, 44, 135);
+  padding: 20px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-style: none;
+  width: 200px;
+  height: auto;
+  font-size: medium;
+  margin: 20px;
+  border-radius: 50%;
+}
+footer #links {
+  color: aliceblue;
+  font-style: italic;
+  margin: auto;
+  padding: 10px;
+  text-align: center;
+  font-size: 40px;
+  box-shadow: inset;
+}
+footer a {
+  margin: auto;
+  text-decoration: none;
+  text-decoration: none;
+  color: rgb(43, 44, 135);
+  display: inline;
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+footer button {
+  background-color: cadetblue;
+  border-radius: 50%;
+  color: rgb(43, 44, 135);
+  padding: 20px 20px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  border-style: none;
+  width: 200px;
+  height: auto;
+  font-size: medium;
+  margin: 20px;
+  color: rgb(43, 44, 135);
+}
